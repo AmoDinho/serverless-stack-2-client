@@ -16,7 +16,7 @@ export default class Settings extends Component{
 
     billUser(details){
         return API.post("notes", "/billing", {
-            body:details
+            body: details
         });
     }
 

@@ -47,10 +47,8 @@ And run.
 $ npm run deploy
 ```
 
-#### Maintainers
-
-Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https://twitter.com/fanjiewang)) & Jay V ([@jayair](https://twitter.com/jayair)). [**Subscribe to our newsletter**](http://eepurl.com/cEaBlf) for updates on Serverless Stack. Send us an [email][Email] if you have any questions.
-
-[Email]: mailto:contact@anoma.ly
+``` 
+REACT_APP_STAGE=prod npm run build
+```
 
 
